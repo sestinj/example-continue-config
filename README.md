@@ -5,3 +5,5 @@ If you are using the Continue LLM Proxy, you can leave the "models" array as is,
 If you are using tab autocomplete, be sure to enter the name of the model you are hosting in place of `"<MY_AUTOCOMPLETE_MODEL_NAME>"`.
 
 Continue will work well with the remainder of the configuration options left as they exist here.
+
+See [here](https://docs.continue.dev/reference/config) for the full `config.json` reference and additional documentation.
